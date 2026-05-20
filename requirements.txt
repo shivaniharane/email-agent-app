@@ -1,0 +1,14 @@
+crewai
+crewai-tools
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+transformers
+torch
+ddgs
+python-dotenv
+streamlit
