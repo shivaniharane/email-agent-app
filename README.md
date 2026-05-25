@@ -1,4 +1,4 @@
-# ✉️ AI Email Reply Agent
+# ✉️ AI Email Triage & Reply Agent
 
 An intelligent email generation system that reads incoming customer emails, understands their tone, retrieves relevant company policies, and automatically generates professional replies — all powered by AI agents working together.
 
