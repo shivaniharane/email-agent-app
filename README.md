@@ -2,7 +2,7 @@
 
 An intelligent email generation system that reads incoming customer emails, understands their tone, retrieves relevant company policies, and automatically generates professional replies — all powered by AI agents working together.
 
-🌐 **Live Demo:** [Click here to try the app](your_streamlit_url_here)
+🌐 **Live Demo:** https://email-agent-app.streamlit.app/
 
 ---
 
