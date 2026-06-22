@@ -132,3 +132,9 @@ The app includes four built-in sample emails to demonstrate different scenarios:
 
 ---
 
+## Author
+
+Built by **Shivani Harane**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivaniharane-blue?logo=linkedin)](https://linkedin.com/in/shivaniharne)
+[![GitHub](https://img.shields.io/badge/GitHub-shivaniharane-black?logo=github)](https://github.com/shivaniharane)
